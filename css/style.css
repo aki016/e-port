@@ -1,0 +1,15 @@
+body{
+    margin-top: 0 auto;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+/* TOP用CSS */
+a{
+    text-decoration:none;
+}
+
+table{
+    border-collapse: collapse;
+    border: 2px solid black;
+}

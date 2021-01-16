@@ -1,0 +1,11 @@
+body{
+    background-repeat: inherit;
+}
+
+div{
+    font-size: 60px;
+    color: blue;
+    font-weight:bold;
+    text-shadow: 2px 2px 2px white;
+    font-family: monospace;
+}
